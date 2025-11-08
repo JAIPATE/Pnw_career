@@ -1,0 +1,5 @@
+{
+  "name": "PNW CareerSync",
+  "description": "A personalized career and skill match web application for Purdue Northwest students. It analyzes a student's resume, finds relevant job postings, and suggests roles where the student meets at least a 70% qualification match, highlighting missing skills.",
+  "requestFramePermissions": []
+}
